@@ -130,10 +130,10 @@
 ---
 
 # 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepHansora/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DeepHansora/DeepHansora/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
----
 
 # 👀 Visitors
 
