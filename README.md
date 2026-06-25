@@ -1,16 +1,157 @@
-## Hi there 👋
+<h1 align="center">
+  Hey 👋, I'm Deep Hansora
+</h1>
 
-<!--
-**DeepHansora/DeepHansora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Full Stack Developer | AI/ML Enthusiast | Java | React | Node.js
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Cool+Things+Everyday...;AI+%7C+Full+Stack+%7C+Open+Source;LeetCode+Grinding+%F0%9F%94%A5;Always+Learning+New+Technologies" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+- 🎓 B.Tech CSE (AI)
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently mastering Backend & System Design
+- 🔥 Daily LeetCode Solver
+- ⚡ Building scalable applications
+- 🎯 Goal: Software Engineer @ Top Product Company
+
+<br><br><br>
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux"/>
+</p>
+
+---
+
+# ⚡ GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeepHansora&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepHansora&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepHansora&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DeepHansora&theme=algolia&column=7&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepHansora&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🔥 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/DeepHan05/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/DeepHansora">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/deephansora">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DeepHansora&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<h2 align="center">
+
+⭐ "Code. Learn. Build. Repeat." ⭐
+
+</h2>
