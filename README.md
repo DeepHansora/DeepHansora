@@ -17,9 +17,8 @@
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🎓 B.Tech CSE (AI)
-- 💻 Full Stack Developer
 - 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently mastering Backend & System Design
+- 🌱 Currently mastering Backend 
 - 🔥 Daily LeetCode Solver
 - ⚡ Building scalable applications
 - 🎯 Goal: Software Engineer @ Top Product Company
@@ -33,31 +32,31 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,python"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux"/>
+<img src="https://skillicons.dev/icons?i=git,githubvscode,pr"/>
 </p>
 
 ---
@@ -131,13 +130,9 @@
 ---
 
 # 🐍 Contribution Snake
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
+  <img src="https://raw.githubusercontent.com/DeepHansora/DeepHansora/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 ---
 
 # 👀 Visitors
