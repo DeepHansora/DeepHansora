@@ -2,12 +2,12 @@
   Hey 👋, I'm Deep Hansora
 </h1>
 
-<h3 align="center">
-🚀 AI/ML Enthusiast | Java | 
-</h3>
+<!-- <h3 align="center"> -->
+<!-- 🚀 AI/ML Enthusiast | Java |  -->
+<!-- </h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Cool+Things+Everyday...;AI+%7C+Open+Source;LeetCode+Grinding+%F0%9F%94%A5;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Cool+Things+Everyday...;LeetCode+Grinding+%F0%9F%94%A5;Always+Learning+New+Technologies" />
 </p>
 
 ---
