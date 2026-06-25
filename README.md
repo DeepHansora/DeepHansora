@@ -56,7 +56,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,githubvscode,pr"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pr"/>
 </p>
 
 ---
